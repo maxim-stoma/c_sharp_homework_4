@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/bin/Debug/net6.0/task029_setArray0
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/bin/Debug/net6.0/task029_setArray0.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/bin/Debug/net6.0/task029_setArray0.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/bin/Debug/net6.0/task029_setArray0.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/bin/Debug/net6.0/task029_setArray0.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/task029_setArray0.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/task029_setArray0.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/task029_setArray0.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/task029_setArray0.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/task029_setArray0.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/task029_setArray0.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/refint/task029_setArray0.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/task029_setArray0.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/task029_setArray0.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task029_setArray0/obj/Debug/net6.0/ref/task029_setArray0.dll
