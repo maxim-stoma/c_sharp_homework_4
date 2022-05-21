@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/bin/Debug/net6.0/task025_exponent
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/bin/Debug/net6.0/task025_exponent.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/bin/Debug/net6.0/task025_exponent.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/bin/Debug/net6.0/task025_exponent.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/bin/Debug/net6.0/task025_exponent.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/task025_exponent.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/task025_exponent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/task025_exponent.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/task025_exponent.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/task025_exponent.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/task025_exponent.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/refint/task025_exponent.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/task025_exponent.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/task025_exponent.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task025_exponent/obj/Debug/net6.0/ref/task025_exponent.dll
