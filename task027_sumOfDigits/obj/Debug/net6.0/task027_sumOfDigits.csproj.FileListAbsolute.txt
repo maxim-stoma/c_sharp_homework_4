@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/bin/Debug/net6.0/task027_sumOfDigits
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/bin/Debug/net6.0/task027_sumOfDigits.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/bin/Debug/net6.0/task027_sumOfDigits.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/bin/Debug/net6.0/task027_sumOfDigits.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/bin/Debug/net6.0/task027_sumOfDigits.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/task027_sumOfDigits.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/task027_sumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/task027_sumOfDigits.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/task027_sumOfDigits.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/task027_sumOfDigits.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/task027_sumOfDigits.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/refint/task027_sumOfDigits.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/task027_sumOfDigits.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/task027_sumOfDigits.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_3/task027_sumOfDigits/obj/Debug/net6.0/ref/task027_sumOfDigits.dll
